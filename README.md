@@ -2,4 +2,4 @@
 Blog Generation using Quantized models
 
 
-# Place your model under models/ folder
+Place your model under models/ folder
